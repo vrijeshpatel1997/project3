@@ -1,0 +1,102 @@
+.list{
+
+    display: flex;
+    position: relative;
+    left: 10%;
+    bottom: 55px;
+    font-size: 25px;
+  
+   
+   
+    
+
+}
+
+
+.list-item{
+
+    margin-right: 35px;
+    list-style: none;
+
+}
+
+
+.navbar-container img{
+
+
+  position: relative;
+  top: 19px;
+    margin-left: 25px;
+
+
+}
+
+
+.button-group .nav-button{
+
+    background-color: #6342f5;
+    font-size: 30px;
+    position: relative;
+    left: 85%;
+    color: white;
+  bottom:  120px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: none;
+  border-radius: 15px;
+
+}
+
+
+.pic{
+
+   position: absolute;
+    left: 59%;
+    bottom: 10%;
+
+
+
+}
+.description{
+
+    font-family: "poppins", sans-serif;
+    padding-left: 15px;
+    
+
+}
+
+.heading-text{
+
+    font-size: 55px;
+    color: rgb(0, 55, 128);
+    padding-left: 15px;
+    
+    
+}
+
+.heading-text span{
+
+    color: #6342f5;;
+}
+
+.banner-container button {
+    background-color: #6342f5;
+    font-size: 30px;
+    color: white;
+
+    position: absolute;
+   top: 70%;
+   left: 2%;
+   padding-left: 50px;
+   padding-right: 50px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   border: none;
+   border-radius: 15px;
+  
+  
+
+
+}
